@@ -8,3 +8,7 @@
 
 * Q. What kind of attire is acceptable for the headshot on friday?
 * A. Button-down shirt (no dark colors) prefered with a blazer or tie.
+
+* Q. Which is better in react, function-based components or class-based components?
+* A. Function-based is generally better than class-based but there are certain cases where class-based is necessary, usually involving access to certain states and props. Most current react apps are class-based but are transitioning to functional.
+
