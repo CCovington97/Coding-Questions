@@ -10,7 +10,7 @@
     * Research 
         * Mission/Vision statement/Core values
         * Company History
-        * Compnay Size
+        * Company Size
         * Products and/or Services Provided
         * Location
         * Recent News, Trends, Problems
@@ -73,10 +73,10 @@
         * If you were hired, what ideas/talents could you contribute to this position
         * What is your biggest weakness?
             * This is crucial, that's why it's on here twice
-        * Prepare 2 CAR (Chalenge, Action, Results) stories
+        * Prepare 2 CAR (Challenge, Action, Results) stories
 
 * Practice, Practice, Practice
-    * memorize you rmessage
+    * memorize your message
     * Deep breathes
     * Power pose
     * Rehearse with family and friends
@@ -120,7 +120,7 @@
 * dress inapp
 * answer your cell phone or text
 * bad mouth former employers
-* arrive lat
+* arrive late
 * ramble, stay focused
 * be unprepared
 * be rude to receptionist or others on staff
@@ -136,9 +136,9 @@
 ### Please Do
 * Arrive early
 * silence phone
-* clean coppies of your resume and references (6-12)
+* clean copies of your resume and references (6-12)
 * professional padfolio
-* communciate careully
+* communciate carefully
 * notebook and pen
 * listen
 * show personality
